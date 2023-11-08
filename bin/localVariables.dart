@@ -14,7 +14,6 @@ void main(){
 }
 class Demo{
   int a = 10, b = 20;
-
   //user defined method
   void add(){
     int c = 25;
